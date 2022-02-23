@@ -1,0 +1,16 @@
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.exe
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.deps.json
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.runtimeconfig.json
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.runtimeconfig.dev.json
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.dll
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\ref\Lesson_7.app.dll
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\bin\Debug\net5.0\Lesson_7.app.pdb
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.AssemblyInfoInputs.cache
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.AssemblyInfo.cs
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.dll
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\ref\Lesson_7.app.dll
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.pdb
+C:\Users\windo\source\repos\Lesson_7\Lesson_7.app\Lesson_7.app\obj\Debug\net5.0\Lesson_7.app.genruntimeconfig.cache
