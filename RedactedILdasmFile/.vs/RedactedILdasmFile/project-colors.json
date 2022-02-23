@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74e562f1-3676-43ab-b025-2a5660e1ca21": {
+      "ProjectGuid": "74e562f1-3676-43ab-b025-2a5660e1ca21",
+      "DisplayName": "RedactedILdasmFile",
+      "ColorIndex": 0
+    },
+    "dfca438d-6dbb-440e-879e-ae78b1e51fd9": {
+      "ProjectGuid": "dfca438d-6dbb-440e-879e-ae78b1e51fd9",
+      "DisplayName": "RedactedILdasmFile",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

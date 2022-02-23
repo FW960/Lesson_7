@@ -1,0 +1,8 @@
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\bin\Debug\Lesson_7.app.exe.config
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\bin\Debug\Lesson_7.app.exe
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\bin\Debug\Lesson_7.app.pdb
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\obj\Debug\RedactedILdasmFile.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\obj\Debug\RedactedILdasmFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\obj\Debug\RedactedILdasmFile.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\obj\Debug\Lesson_7.app.exe
+C:\Users\windo\source\repos\Lesson_7\RedactedILdasmFile\obj\Debug\Lesson_7.app.pdb
