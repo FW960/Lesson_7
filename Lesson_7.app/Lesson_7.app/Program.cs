@@ -6,7 +6,20 @@ namespace Lesson_7.app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string password = "VeryUnpredictableSecretPassword";
+
+            Console.WriteLine("Enter password: ");
+
+            string userChoice = Console.ReadLine();
+
+            if (userChoice == password)
+            {
+                Console.WriteLine("Welcome Admin.");
+            }
+            else if (userChoice != password)
+            {
+                Console.Write("Welcome User.");
+            }
         }
     }
 }
